@@ -75,6 +75,7 @@
       <WorkToBuild>35</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
+	<drawStyleCategory>Conduits</drawStyleCategory>
     <placingDraggableDimensions>1</placingDraggableDimensions>
     <costList>
       <WoodLog>5</WoodLog>
